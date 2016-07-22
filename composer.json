@@ -1,0 +1,15 @@
+{
+    "name": "taalendigitaal/unveil",
+    "description": "A very lightweight plugin to lazy load images for jQuery",
+    "type": "component",
+    "require": {
+        "robloach/component-installer": "*"
+    },
+    "extra": {
+        "component": {
+            "scripts": [
+                "jquery.unveil.js"
+            ]
+        }
+    }
+}
